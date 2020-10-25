@@ -1,0 +1,6 @@
+SELECT
+*
+
+
+ FROM vw_CARTEIRA_AVON_V2_dia_geral
+ WHERE CONTRATO IN ()
